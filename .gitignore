@@ -1,0 +1,7 @@
+/.idea
+/recommendations/venv
+/marketplace/venv
+/recommendations/recommendations_pb2.py
+/recommendations/recommendations_pb2_grpc.py
+/marketplace/recommendations_pb2.py
+/marketplace/recommendations_pb2_grpc.py
